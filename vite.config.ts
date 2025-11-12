@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 
 // https://vite.dev/config/
 export default defineConfig({
-    base: "/helloemily", // github pages url
+    base: "/helloemily/", // github pages url
     plugins: [
         react({
             babel: {
